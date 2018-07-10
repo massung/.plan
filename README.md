@@ -1,2 +1,1 @@
-# .plan
-Dot plan for use with GitHub Finger
+This is the list of things that I'm currently doing.
