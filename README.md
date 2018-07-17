@@ -1,2 +1,10 @@
-Engineers are those who make what they need from things they can get.
-<a class="twitter-timeline" style="float:right" data-width="240" data-height="320" data-theme="light" href="https://twitter.com/codeninja_blog?ref_src=twsrc%5Etfw">Tweets by codeninja_blog</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+> Engineering is the art of making what you want from things you can get.
+>
+> &mdash; <cite>[Jerry Avins][avins]</cite>
+
+I read that in the signature of a reply Jerry made to a post of mine on [comp.lang.forth][ng] oh so many years ago and it has stuck with me since. 
+
+Every problem appears complex. Just break it down until each component is simple. Solve those. The result is the solution.
+
+[avins]: http://users.erols.com/jyavins/index.html
+[ng]: https://groups.google.com/forum/#!forum/comp.lang.forth
